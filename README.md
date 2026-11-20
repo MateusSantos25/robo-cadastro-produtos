@@ -36,8 +36,8 @@ Não é preciso baixar o ChromeDriver. A partir da versão 4.6, o Selenium baixa
 ## Instalação
 
 ```powershell
-git clone <url do repositório>
-cd <nome da pasta>
+git clone https://github.com/MateusSantos25/robo-cadastro-produtos.git
+cd robo-cadastro-produtos
 python -m venv .venv
 .venv\Scripts\activate
 pip install -r requirements.txt
