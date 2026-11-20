@@ -1,0 +1,18 @@
+# Segredos 
+.env
+
+# Ambiente Virtual
+.venv/
+
+# Arquivos gerados pelo Python
+__pycache__/
+*.pyc
+
+# Cache do Ruff
+.ruff_cache/
+
+# Saída Gerada pelo robô 
+produtos_falhos.csv
+
+# Configuraçôes do editor
+.vscode/
